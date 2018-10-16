@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "13331666005",
+    "firebase_url": "https://travelapp-e5b3c.firebaseio.com",
+    "project_id": "travelapp-e5b3c",
+    "storage_bucket": "travelapp-e5b3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13331666005:android:7593af22ba7b7fe9",
+        "android_client_info": {
+          "package_name": "com.android.app.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13331666005-la0bdoc0d1884rbipgs1gc2b1an5ug04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.app.travelapp",
+            "certificate_hash": "b78ac2a3ebd2475b671ba529f2a47190d5b4ab2d"
+          }
+        },
+        {
+          "client_id": "13331666005-2bek3j6j46d4oeo2floca3gfqcainnqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDjavXhWFpuYqhdiSBrGkxqk9Cu5yEYpw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13331666005-2bek3j6j46d4oeo2floca3gfqcainnqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13331666005:android:7a34e57a7594aee7",
+        "android_client_info": {
+          "package_name": "programming.com.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13331666005-ohfdue4b4b499p7qkgt9q3rbb8hn3cu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "programming.com.travelapp",
+            "certificate_hash": "13bddb25cecd08dab8d4601d7e148a7cdf772074"
+          }
+        },
+        {
+          "client_id": "13331666005-2bek3j6j46d4oeo2floca3gfqcainnqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDjavXhWFpuYqhdiSBrGkxqk9Cu5yEYpw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13331666005-2bek3j6j46d4oeo2floca3gfqcainnqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="10dp"
+    android:elevation="25dp"
+    android:background="@drawable/cardview_background"
+    tools:ignore="UnusedAttribute">
+
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="120dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/app_name"
+            android:id="@+id/tourImage"
+            android:alpha="4"
+            android:src="@color/lightBlue"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="16sp"
+            android:id="@+id/place_name"
+            android:textColor="@android:color/white"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

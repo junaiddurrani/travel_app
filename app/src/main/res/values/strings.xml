@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="best_way_to_organize_travels">Best way to organize travels</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_account_sign_in">Already have account ? Sign In</string>
+    <string name="home">Home</string>
+    <string name="tour">Tour</string>
+    <string name="explore">Explore</string>
+    <string name="profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tap_to_add_image">Tap to add Image</string>
+    <string name="hotel_name">Hotel name</string>
+    <string name="place_name">Place name</string>
+    <string name="price">Price</string>
+    <string name="add_post">Add Post</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="edit">Edit</string>
+    <string name="private_details">Private Details</string>
+    <string name="update">Update</string>
+    <string name="add_tour">Add Tour</string>
+    <string name="popular_tours">Popular Tours</string>
+    <string name="new_offer_tours">New Offer Tours</string>
+    <string name="best_destination">Best Destination</string>
+
+</resources>
